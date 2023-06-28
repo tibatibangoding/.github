@@ -1,8 +1,4 @@
-<h1 align="center">
-  <img align="center" height="100" src="https://github.com/tibatibangoding/.github/blob/main/TTN-jpg.jpg"/>
-  Tiba-tiba Ngoding
-</h>
-
+![Banner]('https://github.com/tibatibangoding/.github/blob/main/profile/src/TTN-cover.jpg')
 
 # Tiba-tiba Ngoding
 
