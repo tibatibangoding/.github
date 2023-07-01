@@ -12,9 +12,9 @@
     </a>
 </p>
 
-## [❔] Tentang Tiba-tiba Ngoding
+## [❔] Tentang Tiba Tiba Ngoding
 
-Tiba-tiba Ngoding adalah organisasi atau tim yang bergerak di bidang jasa pembuatan situs aplikasi (Website Application) hadir untuk Anda yang ingin membuat sebuah situs aplikasi yang Anda inginkan.
+Tiba Tiba Ngoding adalah organisasi atau tim yang bergerak di bidang jasa pembuatan situs aplikasi (Website Application) hadir untuk Anda yang ingin membuat sebuah situs aplikasi yang Anda inginkan.
 
 <!-- Nama Bellshade sendiri diambil dari bahasa Inggris yang berarti "_penutup lampu belajar_", yang mengarahkan cahaya dari lampu agar fokus pada tujuan dan tepat sasaran. Dengan nama ini, Bellshade diharapkan dapat menjadi wadah untuk menerangi dan mengarahkan serta memberikan ilmu kepada orang yang membutuhkan, terutama di bidang teknologi. -->
 
