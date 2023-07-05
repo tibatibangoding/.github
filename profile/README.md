@@ -45,7 +45,7 @@ Tiba Tiba Ngoding adalah organisasi atau tim yang bergerak di bidang jasa pembua
 
 ## [📞] Contact Me
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tibatibangoding)
+[![visitors](https://komarev.com/ghpvc/?username=tibatibangoding&style=flat-square&color=6082B0)](https://www.github.com/tibatibangoding)
 [![Gmail Badge](https://img.shields.io/badge/-naufalakbar378@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naufalakbar378@gmail.com)](mailto:naufalakbar378@gmail.com)
 
 <div align="center">
