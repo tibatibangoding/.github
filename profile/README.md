@@ -42,6 +42,7 @@ Tiba Tiba Ngoding adalah organisasi atau tim yang bergerak di bidang jasa pembua
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![macOS](https://img.shields.io/badge/-Mac%20OS-000000?style=flat-square&logo=macos&logoColor=ffffff)
 
 ## [📞] Contact Me
 
