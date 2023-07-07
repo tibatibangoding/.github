@@ -3,8 +3,8 @@
     <img alt="Banner Koding" src="https://github.com/tibatibangoding/.github/blob/main/profile/src/TTN-cover.jpg?raw=true">
     <br />
     <!-- badge website -->
-    <a href="https://tibatibangoding.com">
-      <img src="https://img.shields.io/badge/%F0%9F%8C%90-tibatibangoding.com-blue?style=for-the-badge" alt="Website" />
+    <a href="https://tibatibangoding.github.io">
+      <img src="https://img.shields.io/badge/%F0%9F%8C%90-tibatibangoding.github.io-blue?style=for-the-badge" alt="Website" />
     </a>
     <!-- baddge sponsor-->
     <a href="https://saweria.co/NOPALLLL">
