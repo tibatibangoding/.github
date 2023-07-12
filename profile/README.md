@@ -3,8 +3,8 @@
     <img alt="Banner Koding" src="https://github.com/tibatibangoding/.github/blob/main/profile/src/logo-new-jpg.jpg?raw=true">
     <br />
     <!-- badge website -->
-    <a href="https://tibatibangoding.com">
-      <img src="https://img.shields.io/badge/%F0%9F%8C%90-tibatibangoding.com-blue?style=for-the-badge" alt="Website" />
+    <a href="https://tibatibangoding.github.io">
+      <img src="https://img.shields.io/badge/%F0%9F%8C%90-tibatibangoding.github.io-blue?style=for-the-badge" alt="Website" />
     </a>
     <!-- baddge sponsor-->
     <a href="https://saweria.co/NOPALLLL">
@@ -12,9 +12,9 @@
     </a>
 </p>
 
-## [❔] Tentang Tiba-tiba Ngoding
+## [❔] Tentang Tiba Tiba Ngoding
 
-Tiba-tiba Ngoding adalah organisasi atau tim yang bergerak di bidang jasa pembuatan situs aplikasi (Website Application) hadir untuk Anda yang ingin membuat sebuah situs aplikasi yang Anda inginkan.
+Tiba Tiba Ngoding adalah organisasi atau tim yang bergerak di bidang jasa pembuatan situs aplikasi (Website Application) hadir untuk Anda yang ingin membuat sebuah situs aplikasi yang Anda inginkan.
 
 <!-- Nama Bellshade sendiri diambil dari bahasa Inggris yang berarti "_penutup lampu belajar_", yang mengarahkan cahaya dari lampu agar fokus pada tujuan dan tepat sasaran. Dengan nama ini, Bellshade diharapkan dapat menjadi wadah untuk menerangi dan mengarahkan serta memberikan ilmu kepada orang yang membutuhkan, terutama di bidang teknologi. -->
 
@@ -42,10 +42,11 @@ Tiba-tiba Ngoding adalah organisasi atau tim yang bergerak di bidang jasa pembua
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+![macOS](https://img.shields.io/badge/-Mac%20OS-000000?style=flat-square&logo=macos&logoColor=ffffff)
 
 ## [📞] Contact Me
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=tibatibangoding)
+[![visitors](https://komarev.com/ghpvc/?username=tibatibangoding&style=flat-square&color=6082B0)](https://www.github.com/tibatibangoding)
 [![Gmail Badge](https://img.shields.io/badge/-naufalakbar378@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naufalakbar378@gmail.com)](mailto:naufalakbar378@gmail.com)
 
 <div align="center">
