@@ -20,6 +20,7 @@ Tiba Tiba Ngoding adalah tim ahli pengembangan aplikasi web berkualitas tinggi, 
 
 - <a href="https://github.com/tibatibangoding/undanganmu.com">Template Undangan Digital (undanganmu.com) 🚧</a>
 - <a href="https://github.com/tibatibangoding/seighost">NFT Landingpage Seighost</a>
+- <a href="https://github.com/tibatibangoding/nou-klinik">Klinik Nou 🚧</a>
 - <a href="https://github.com/tibatibangoding/poptour">Biro Wisata POP Tour</a>
 
 ## [🛠] Bahasa Pemrograman dan Alat
