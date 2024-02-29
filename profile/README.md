@@ -18,7 +18,9 @@ Tiba Tiba Ngoding adalah tim ahli pengembangan aplikasi web berkualitas tinggi, 
 
 ## [📦] Proyek Terbaru
 
-- <a href="https://github.com/tibatibangoding/undanganmu.com">Template Undangan Digital (undanganmu.com) 🚧</a>
+- <a href="#">E-Commerce Tiba Tiba Ngoding (tibatibastore.com) 🚧</a>
+- <a href="#">Website Top Up Game (topup.tibatibastore.com) 🚧</a>
+- <a href="#">Template Undangan Digital (undanganmu.com) 🚧</a>
 - <a href="https://github.com/tibatibangoding/seighost">NFT Landingpage Seighost</a>
 - <a href="https://github.com/tibatibangoding/nou-klinik">Klinik Nou 🚧</a>
 - <a href="https://github.com/tibatibangoding/poptour">Biro Wisata POP Tour</a>
