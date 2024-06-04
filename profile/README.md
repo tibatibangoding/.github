@@ -1,6 +1,6 @@
 <p align="center">
     <!-- badge koding assembly-->
-    <img alt="Banner Koding" src="https://github.com/tibatibangoding/.github/blob/main/profile/src/logo-new-jpg.jpg?raw=true">
+    <img alt="Banner Koding" src="https://github.com/tibatibangoding/.github/blob/main/profile/src/twitter-card-ttn.png?raw=true">
     <br />
     <!-- badge website -->
     <a href="https://tibatibangoding.github.io">
