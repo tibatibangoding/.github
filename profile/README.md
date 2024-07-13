@@ -18,7 +18,7 @@ Tiba Tiba Ngoding adalah tim ahli pengembangan aplikasi web berkualitas tinggi, 
 
 ## [📦] Proyek Terbaru
 
-- <a href="#">E-Course Tiba Tiba Ngoding (ngodingker.com) 🚧</a>
+- <a href="#">E-Course Tiba Tiba Ngoding (handalngoding.com) 🚧</a>
 - <a href="#">E-Commerce Tiba Tiba Ngoding (tibatibastore.com) 🚧</a>
 - <a href="https://github.com/tibatibangoding/seighost">NFT Landingpage Seighost</a>
 - <a href="https://github.com/tibatibangoding/nou-klinik">Klinik Nou 🚧</a>
