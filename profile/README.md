@@ -49,7 +49,7 @@ Tiba Tiba Ngoding adalah tim ahli pengembangan aplikasi web berkualitas tinggi, 
 ## [📞] Contact Me
 
 [![visitors](https://komarev.com/ghpvc/?username=tibatibangoding&style=flat-square&color=6082B0)](https://www.github.com/tibatibangoding)
-[![Gmail Badge](https://img.shields.io/badge/-naufalakbar378@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naufalakbar378@gmail.com)](mailto:naufalakbar378@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tibatibangoding@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tibatibangoding@gmail.com)](mailto:tibatibangoding@gmail.com)
 
 <div align="center">
     <h4 align="center">Made with &nbsp;❤️&nbsp; by <a href="https://github.com/tibatibangoding">Tiba-tiba Ngoding</a></h4>
