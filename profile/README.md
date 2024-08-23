@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/%F0%9F%8C%90-tibatibangoding.github.io-blue?style=for-the-badge" alt="Website" />
     </a>
     <!-- baddge sponsor-->
-    <a href="https://saweria.co/NOPALLLL">
+    <a href="https://saweria.co/nuflakbrr">
       <img alt="Badge Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" />
     </a>
 </p>
