@@ -18,12 +18,15 @@ Tiba Tiba Ngoding adalah tim ahli pengembangan aplikasi web berkualitas tinggi, 
 
 ## [📦] Proyek Terbaru
 
+- <a href="https://www.heavenlyjava.com/">Heavenly Java</a>
+- <a href="https://www.cakrawalaskala.com/">CAKSA Web Company Profile</a>
+- <a href="#">NFT Landingpage Seighost</a>
+- <a href="#">Klinik Nou 🚧</a>
+- <a href="https://www.poptour.id/">Biro Wisata POP Tour</a>
+
+## [📦] Project Internal
 - <a href="#">E-Course Tiba Tiba Ngoding (handalngoding.com) 🚧</a>
 - <a href="#">E-Commerce Tiba Tiba Ngoding (tibatibastore.com) 🚧</a>
-- <a href="https://github.com/tibatibangoding/caksa">CAKSA Web Company Profile</a>
-- <a href="https://github.com/tibatibangoding/seighost">NFT Landingpage Seighost</a>
-- <a href="https://github.com/tibatibangoding/nou-klinik">Klinik Nou 🚧</a>
-- <a href="https://github.com/tibatibangoding/poptour">Biro Wisata POP Tour</a>
 
 ## [🛠] Bahasa Pemrograman dan Alat
 
