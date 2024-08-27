@@ -20,8 +20,8 @@ Tiba Tiba Ngoding adalah tim ahli pengembangan aplikasi web berkualitas tinggi, 
 
 - <a href="https://www.heavenlyjava.com/">Heavenly Java</a>
 - <a href="https://www.cakrawalaskala.com/">CAKSA Web Company Profile</a>
-- <a href="#">NFT Landingpage Seighost</a>
-- <a href="#">Klinik Nou 🚧</a>
+- NFT Landingpage Seighost
+- Klinik Nou 🚧
 - <a href="https://www.poptour.id/">Biro Wisata POP Tour</a>
 
 ## [📦] Project Internal
