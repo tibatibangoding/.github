@@ -26,8 +26,8 @@ Tiba Tiba Ngoding adalah tim ahli pengembangan aplikasi web berkualitas tinggi, 
 - <a href="https://www.poptour.id/">Biro Wisata POP Tour</a>
 
 ## [📦] Project Internal
-- <a href="#">E-Course Tiba Tiba Ngoding (handalngoding.com) 🚧</a>
-- <a href="#">E-Commerce Tiba Tiba Ngoding (tibatibastore.com) 🚧</a>
+- E-Course Tiba Tiba Ngoding (handalngoding.com) 🚧
+- E-Commerce Tiba Tiba Ngoding (tibatibastore.com) 🚧
 
 ## [🛠] Bahasa Pemrograman dan Alat
 
