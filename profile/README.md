@@ -26,6 +26,8 @@ Tiba Tiba Ngoding adalah tim ahli pengembangan aplikasi web berkualitas tinggi, 
 - <a href="https://www.poptour.id/">Biro Wisata POP Tour</a>
 
 ## [📦] Proyek Internal
+- E-Rapor Kurikulum Merdeka 🚧
+- Aplikasi Manajemen Gudang & Kasir 🚧
 - E-Course Tiba Tiba Ngoding (handalngoding.com) 🚧
 - E-Commerce Tiba Tiba Ngoding (tibatibastore.com) 🚧
 
