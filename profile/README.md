@@ -18,7 +18,7 @@ Tiba Tiba Ngoding adalah tim ahli pengembangan aplikasi web berkualitas tinggi, 
 
 ## [📦] Hasil Proyek Kami
 
-- <a href="https://www.heavenlyjava.com/">Heavenly Java</a>
+- <a href="https://www.heavenlyjava.com/">Biro Wisata Heavenly Java</a>
 - <a href="https://www.sisuanang.com/">Sisuanang UPPD Batulicin Kalimantan Selatan</a>
 - <a href="https://www.cakrawalaskala.com/">CAKSA Web Company Profile</a>
 - NFT Landingpage Seighost
