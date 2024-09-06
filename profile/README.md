@@ -25,7 +25,7 @@ Tiba Tiba Ngoding adalah tim ahli pengembangan aplikasi web berkualitas tinggi, 
 - Klinik Nou 🚧
 - <a href="https://www.poptour.id/">Biro Wisata POP Tour</a>
 
-## [📦] Project Internal
+## [📦] Proyek Internal
 - E-Course Tiba Tiba Ngoding (handalngoding.com) 🚧
 - E-Commerce Tiba Tiba Ngoding (tibatibastore.com) 🚧
 
