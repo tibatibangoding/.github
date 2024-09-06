@@ -51,7 +51,7 @@ Tiba Tiba Ngoding adalah tim ahli pengembangan aplikasi web berkualitas tinggi, 
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![macOS](https://img.shields.io/badge/-Mac%20OS-000000?style=flat-square&logo=macos&logoColor=ffffff)
 
-## [📞] Contact Me
+## [📞] Contact Us
 
 [![visitors](https://komarev.com/ghpvc/?username=tibatibangoding&style=flat-square&color=6082B0)](https://www.github.com/tibatibangoding)
 [![Gmail Badge](https://img.shields.io/badge/-tibatibangoding@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tibatibangoding@gmail.com)](mailto:tibatibangoding@gmail.com)
